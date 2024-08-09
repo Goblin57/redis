@@ -1,4 +1,4 @@
-// Test wiht action
+// Test wiht action.
 /*
  * Copyright (c) 2009-Present, Redis Ltd.
  * All rights reserved.
